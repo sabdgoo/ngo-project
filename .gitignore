@@ -1,13 +1,14 @@
-# Dependencies
+# Node.js dependencies
 /node_modules
 
 # Production build files
 /build
+dist  
 
 # MacOS system files
 .DS_Store
 
-# IDE and editor directories
+# IDE and Editor directories
 /.idea
 /.vscode
 
@@ -18,3 +19,4 @@
 
 # Environment variables
 .env
+
